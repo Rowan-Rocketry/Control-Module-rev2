@@ -18554,7 +18554,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "90"
+		(gr_text "2.286"
 			(at 140.462 85.344 90)
 			(layer "Dwgs.User")
 			(uuid "0f8f65dc-5952-4cf9-8361-dede47d98715")
@@ -18592,7 +18592,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "1490"
+		(gr_text "37.846"
 			(at 110.356 70.993 90)
 			(layer "Dwgs.User")
 			(uuid "ab9760ee-ba40-48bf-93cc-9498a038c966")
@@ -18630,7 +18630,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "990"
+		(gr_text "25.146"
 			(at 127.889 93.846 0)
 			(layer "Dwgs.User")
 			(uuid "b2cc3ce4-a9e5-4493-92ca-fba25e70285a")
@@ -18668,7 +18668,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "1580"
+		(gr_text "40.132"
 			(at 140.462 40.506 0)
 			(layer "Dwgs.User")
 			(uuid "b60dbb77-498e-46a8-998c-8fae53061d4f")
@@ -18706,7 +18706,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "1980"
+		(gr_text "50.292"
 			(at 140.462 91.814 0)
 			(layer "Dwgs.User")
 			(uuid "f54ea627-6eab-415c-9c0c-3a9dbe6b0630")
