@@ -1,0 +1,14 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "4a892dab-819f-4c9e-a23d-db3a8f679293")
+	(paper "A4")
+	(title_block
+		(title "Ride-Along Module")
+		(date "2025-04-10")
+		(rev "1")
+		(company "Rowan Rocketry")
+	)
+	(lib_symbols)
+)
