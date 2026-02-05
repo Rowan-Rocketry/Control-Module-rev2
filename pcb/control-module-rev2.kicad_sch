@@ -3568,6 +3568,18 @@
 		(uuid 2b1c171e-3082-4878-9d5c-6e5e138dd90d)
 	)
 	(rectangle
+		(start 21.59 190.5)
+		(end 64.77 197.485)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 34bcb2ab-5401-4cd4-90ed-a4cb03b97c65)
+	)
+	(rectangle
 		(start 189.23 26.67)
 		(end 250.19 129.54)
 		(stroke
@@ -3600,6 +3612,16 @@
 			)
 		)
 		(uuid "10359644-e329-4a7f-aa58-04758f328809")
+	)
+	(text "Max board dimesions: 63.5mm x 63.5mm"
+		(exclude_from_sim no)
+		(at 42.926 194.564 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "7139ba5e-df43-4d23-9318-00c249af5a41")
 	)
 	(text "Divide battery voltage by four to\nfit in ADC range. Will by \nmultiplied by 4 in software."
 		(exclude_from_sim no)
@@ -8754,7 +8776,7 @@
 			)
 		)
 		(instances
-			(project "control-module"
+			(project "control-module-rev2"
 				(path "/ba7b4294-8d75-4b9e-892f-fb52727887ec"
 					(page "5")
 				)
@@ -8826,7 +8848,7 @@
 			)
 		)
 		(instances
-			(project "control-module"
+			(project "control-module-rev2"
 				(path "/ba7b4294-8d75-4b9e-892f-fb52727887ec"
 					(page "4")
 				)
@@ -8898,7 +8920,7 @@
 			)
 		)
 		(instances
-			(project "control-module"
+			(project "control-module-rev2"
 				(path "/ba7b4294-8d75-4b9e-892f-fb52727887ec"
 					(page "7")
 				)
@@ -8978,7 +9000,7 @@
 			)
 		)
 		(instances
-			(project "control-module"
+			(project "control-module-rev2"
 				(path "/ba7b4294-8d75-4b9e-892f-fb52727887ec"
 					(page "6")
 				)
@@ -9280,7 +9302,7 @@
 			)
 		)
 		(instances
-			(project "control-module"
+			(project "control-module-rev2"
 				(path "/ba7b4294-8d75-4b9e-892f-fb52727887ec"
 					(page "3")
 				)
@@ -9422,7 +9444,7 @@
 			)
 		)
 		(instances
-			(project "control-module"
+			(project "control-module-rev2"
 				(path "/ba7b4294-8d75-4b9e-892f-fb52727887ec"
 					(page "6")
 				)
@@ -9494,7 +9516,7 @@
 			)
 		)
 		(instances
-			(project "control-module"
+			(project "control-module-rev2"
 				(path "/ba7b4294-8d75-4b9e-892f-fb52727887ec"
 					(page "2")
 				)
